@@ -20,7 +20,7 @@ def barraProgreso(stream=None, chunk=None, bytes_remaining=None):
 st.title("YouTube Video Downloader")
 
 # Subtitulo de la app
-st.subheader("Download any YouTube video in one click")
+st.subheader("Download any YouTube video in any resolution")
 
 # Obtener el link del usuario
 link = st.text_input("Enter the link of the YouTube video")
